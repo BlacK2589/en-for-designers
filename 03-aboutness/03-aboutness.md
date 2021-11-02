@@ -4,7 +4,7 @@
 
 ## About me
 
-I am Mark, web developer, film maker, photographer and latin american dancer based in Prague.
+ web developer, film maker, photographer and latin american dancer based in Prague.
 
 - [My case study](docs/CONTRIBUTING.md)
 
