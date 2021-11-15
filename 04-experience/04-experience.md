@@ -1,10 +1,10 @@
-# MAREK ČERVENKA
+# MAREK ČERVENKA 🙋🏻‍♂️
 
 Co-founder, Web Developer and Filmmaker in <a href="https://gadzook.cz">Gadzook</a><br>
 cervenka@gadzook.cz<br>
 736 136 007<br>
 
-## EDUCATION
+## EDUCATION 📚
 
 Smíchov Secondary Industrial School
 <pre>
@@ -22,7 +22,7 @@ Student, Graphic design
 
 <br>
 
-## EXPERIENCE
+## EXPERIENCE 🧠
 
 <H3>Co-founder, Web developer and Filmmaker </H3>
 <H4>Gadzook, graphic studio</H4>
@@ -48,7 +48,7 @@ Student, Graphic design
 <p>Creating websites for municipalities and cities. Creation of design for municipalities and cities. The very first creation of custom plugins on WordPress. Communication with clients.</p>
 <br>
 
-## SKILLS
+## SKILLS 🔧
 
 <H3>Web Developer</H3>
 <ul>
