@@ -67,3 +67,15 @@ Student, Graphic design
   <li>FILMING</li>
 </ul>
 
+<H3>TOOLS</H3>
+<ul>
+  <li>Wordpress - Elementor</li>
+  <li>Vmix</li>
+  <li>Adobe XD</li>
+  <li>Adobe Illutrator</li>
+  <li>Adobe Photoshop</li>
+  <li>Adobe Premiere Pro</li>
+  <li>Adobe After Effects</li>
+  <li>Final Cut</li>
+  <li>Web storm</li>
+</ul>
