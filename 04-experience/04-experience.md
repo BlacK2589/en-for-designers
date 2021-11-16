@@ -29,7 +29,7 @@ Student, Graphic design
 
 <i>2020-2021</i>
 
-<p>Creating a business based on the connection of two friends. Creating videos, websites, or photos. Creating commercial, personal or municipal websites. Video production for 2 years at the Miss Czech Republic, Brand cloud, etc.</p>
+<p>Creating a business based on the connection of two friends. Creating videos, websites, or photos. Creating commercial, personal or municipal websites. Video production for 2 years at the Miss Czech Republic, Brand cloud, Czech Fashion Week etc.</p>
 <br>
 
 <H3>Co-founder, Web Developer, Web Designer</H3>
