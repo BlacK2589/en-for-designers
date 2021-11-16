@@ -1,8 +1,8 @@
 # MAREK ČERVENKA 🙋🏻‍♂️
 
-Co-founder, Web Developer and Filmmaker in <a href="https://gadzook.cz">Gadzook</a><br>
-cervenka@gadzook.cz<br>
-736 136 007<br>
+🔈 Co-founder, Web Developer and Filmmaker in <a href="https://gadzook.cz">Gadzook</a><br>
+✉️ cervenka@gadzook.cz<br>
+📱 736 136 007<br>
 
 ## EDUCATION 📚
 
