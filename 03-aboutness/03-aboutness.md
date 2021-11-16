@@ -1,14 +1,14 @@
 
 
-# Marek Červenka
+# MAREK ČERVENKA 🙋🏻‍♂️
 
-## About me
+## ABOUT ME 📌
 
  web developer, film maker, photographer and latin american dancer based in Prague.
 
-- [My case study](docs/CONTRIBUTING.md)
+- [📝 My case study](docs/CONTRIBUTING.md)
 
-## My story
+## MY STORY 📌
 
 ![Alt text description.](img/DSC02150.jpg)
 
