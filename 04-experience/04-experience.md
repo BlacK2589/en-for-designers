@@ -77,5 +77,6 @@ Student, Graphic design
   <li>Adobe Premiere Pro</li>
   <li>Adobe After Effects</li>
   <li>Final Cut</li>
+  <li>DaVinci Resolve - colorgrading</li>
   <li>Web storm</li>
 </ul>
