@@ -65,6 +65,7 @@ Student, Graphic design
   <li>VIDEO EDITING</li>
   <li>LIVESTREAMS</li>
   <li>FILMING</li>
+  <li>PRODUCTION</li>
 </ul>
 
 <H3>TOOLS</H3>
