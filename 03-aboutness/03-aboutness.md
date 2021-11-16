@@ -4,9 +4,15 @@
 
 ## ABOUT ME 📌
 
- web developer, film maker, photographer and latin american dancer based in Prague.
+🔈 Co-founder, Web Developer and Filmmaker in <a href="https://gadzook.cz">Gadzook</a> and latin american dancer based in Prague.<br>
+✉️ cervenka@gadzook.cz<br>
+📱 736 136 007<br> 
+
+<br>
 
 - [📝 My case study](docs/CONTRIBUTING.md)
+
+<br>
 
 ## MY STORY 📌
 
