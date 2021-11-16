@@ -14,9 +14,9 @@ Graduate, IT technology
 
 <br>
 
-BcA in Graphic design University of creative communication
+University of creative communication
 <pre>
-Student, Graphic design
+Student BcA., Graphic design
 2019 - 2022
 </pre>
 
