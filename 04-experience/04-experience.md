@@ -45,7 +45,8 @@ Student BcA., Graphic design
 
 <i>2017 - 2019</i>
 
-<p>Creating websites for municipalities and cities. Creation of design for municipalities and cities. The very first creation of custom plugins on WordPress. Communication with clients.</p>
+<p>Poster design, event preparation, school website administration. And much more, I no longer remember everything, but most of my work was the preparation of events and their organization. Which I really enjoyed. At the same time, I met a large variety of people and they moved me on.
+</p>
 <br>
 
 ## SKILLS 🔧
