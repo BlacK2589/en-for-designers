@@ -71,7 +71,8 @@ Student BcA., Graphic design
 
 <H3>TOOLS</H3>
 <ul>
-  <li>Wordpress - Elementor</li>
+  <li>Wordpress</li>
+  <li>Web storm</li>
   <li>Vmix</li>
   <li>Adobe XD</li>
   <li>Adobe Illutrator</li>
@@ -79,6 +80,6 @@ Student BcA., Graphic design
   <li>Adobe Premiere Pro</li>
   <li>Adobe After Effects</li>
   <li>Final Cut</li>
+  <li>Vmix</li>
   <li>DaVinci Resolve - colorgrading</li>
-  <li>Web storm</li>
 </ul>
