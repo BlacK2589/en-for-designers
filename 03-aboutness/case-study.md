@@ -18,3 +18,7 @@ I also said from the beginning that the future of this site will be its simplici
 ![Dron](https://bojanovice.cz/lootoobi/2020/12/Photo_6553856_DJI_256_jpg_4586824_0_2020922134918_photo_original-2-scaled.jpg)
 
 Much of the time on this site was not for implementation, but for overall preparation. Lots of options have been used to bring them as close as possible to the end-user. At the same time, one had to think about the fact that both the front end and the back end must be very simple. Because it is in the administration that the mayor can change various things with others. That's why my next idea came not to give them access to everything, as it was in the past, but only to something. Because in the past they also had access to the code and I don't consider it something that would be important to them, and especially if they changed something there, the website could crash. And that's not good at all.
+
+![Last](https://gadzook.cz/gryketej/2021/03/bojanovice23.png)
+
+I would like to thank this village, which has moved me a lot forward. I keep in touch with them and continue to manage their website. At the moment, various rules have changed again, so we had to change the website again, and unfortunately, it was not one thing, but about 20 points that had to be adjusted. Therefore, remember that municipal websites are not just done and left, but you also spend time on them after you do. She has to update so often that sometimes it occurs to me that I'm actually making a new website and she's still the same.
