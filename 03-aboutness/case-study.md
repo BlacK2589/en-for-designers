@@ -15,7 +15,7 @@ The website is made up of many things you won't find on a normal website. I focu
 
 I also said from the beginning that the future of this site will be its simplicity and so it happened. I also had the opportunity to take a picture of the whole village with a drone, which we can see on the main page. The only thing that was a big problem is the fact that this village is divided into 3 parts, so only one was photographed, the one where the office is. Because we said that the others are not so important for this website, like the fact that people will know, yeah, here is the municipal office.
 
-![Dron](https://bojanovice.cz/lootoobi/2020/12/Photo_6553856_DJI_256_jpg_4586824_0_2020922134918_photo_original-2-scaled.jpg)
+![Dron](https://bojanovice.cz/lootoobi/2020/12/Photo_6553856_DJI_256_jpg_4586824_0_2020922134918_photo_original-scaled.jpg)
 
 Much of the time on this site was not for implementation, but for overall preparation. Lots of options have been used to bring them as close as possible to the end-user. At the same time, one had to think about the fact that both the front end and the back end must be very simple. Because it is in the administration that the mayor can change various things with others. That's why my next idea came not to give them access to everything, as it was in the past, but only to something. Because in the past they also had access to the code and I don't consider it something that would be important to them, and especially if they changed something there, the website could crash. And that's not good at all.
 
