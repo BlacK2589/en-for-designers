@@ -10,7 +10,7 @@
 
 <br>
 
-- [📝 My case study](docs/CONTRIBUTING.md)
+- [📝 My case study](case-study.md)
 
 <br>
 
