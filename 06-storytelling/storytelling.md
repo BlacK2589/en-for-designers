@@ -20,5 +20,8 @@ My design philosophy? It's been pretty hard to answer such a question lately. My
 
 <h3>Where does your inspiration come from?</h3>
 
+COMING SOON
 
 <h3>When was that aha moment?</h3>
+
+COMING SOON
