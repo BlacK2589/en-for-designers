@@ -23,7 +23,7 @@
 - [Case study: Website for village Bojanovice 📓](case-study.md)
 - [Experience: My CV 📝](case-study.md)
 - [Voice and tone 🔊](case-study.md)
-- [Storytelling (WIP): Questions 📎](case-study.md)
+- [Storytelling (WIP): Questions 📎](https://black2589.github.io/en-for-designers/06-storytelling/storytelling)
 - [Extra: Takeaways ⌛️](case-study.md)
 
 <br>
