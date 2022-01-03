@@ -19,6 +19,6 @@
 - [Case study: Website for village Bojanovice 📓](https://black2589.github.io/en-for-designers/03-aboutness/case-study.html)
 - [Experience: My CV 📝](https://black2589.github.io/en-for-designers/04-experience/04-experience)
 - [Voice and tone 🔊](https://black2589.github.io/en-for-designers/05-voice-tone/voice-tone)
-- [Storytelling (WIP): Questions 📎 - COMING SOON](https://black2589.github.io/en-for-designers/06-storytelling/storytelling)
+- [Storytelling (WIP): Questions 📎](https://black2589.github.io/en-for-designers/06-storytelling/storytelling)
 - [Extra: Takeaways ⌛️](https://black2589.github.io/en-for-designers/extra-takeaways/extra)
 
