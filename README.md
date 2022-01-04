@@ -14,7 +14,7 @@
 
 ## Work you can see, only with your eyes 👀 (just click it! 🖱)
 
-- [Character & Description: Letter I 🗂](https://black2589.github.io/en-for-designers/03-aboutness/03-aboutness)
+- [Character & Description: Letter 🗂](https://black2589.github.io/en-for-designers/03-aboutness/03-aboutness)
 - [Impression: My favorite portfolio pieces 📄](https://black2589.github.io/en-for-designers/02-impression/impression)
 - [Case study: Website for village Bojanovice 📓](https://black2589.github.io/en-for-designers/03-aboutness/case-study.html)
 - [Experience: My CV 📝](https://black2589.github.io/en-for-designers/04-experience/04-experience)
