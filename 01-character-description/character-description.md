@@ -3,11 +3,11 @@
 
 ## Alt text
 <ol>
-  <li>NEW</li>
-  <li>NEW</li>
-  <li>NEW</li>
-  <li>NEW</li>
-  <li>NEW</li>
+  <li>The letter H, which looks like text.</li>
+  <li>HTML code that is written to look like the letter H.</li>
+  <li>Plain white letter H, which is on a gray background.</li>
+  <li>A capital letter in the middle of the screen that looks like text.</li>
+  <li>HTML code written in the block.</li>
 </ol>
 
 ## Favorites
