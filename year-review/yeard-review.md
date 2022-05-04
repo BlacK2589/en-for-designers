@@ -41,3 +41,5 @@ I think I could go to class more. But most of the time, there was always an illn
 Nothing. You are one of the best teachers I have ever experienced. Especially having an English teacher from the US is pretty cool. And I believe that if children in high school or primary school have this opportunity, it will often give them more than normal teaching.
 
 ### 10. What advice would you give to students going into this subject next year? ⚫️
+
+Especially let them enjoy it and create other great projects with you. And, of course, Justin must enjoy it.
