@@ -22,3 +22,11 @@
 - [Storytelling (WIP): Questions 📎](https://black2589.github.io/en-for-designers/06-storytelling/storytelling)
 - [Extra: Takeaways ⌛️](https://black2589.github.io/en-for-designers/extra-takeaways/extra)
 
+## Case study 📝 / Bachelor thesis 📕
+
+- [Clarity first ⚙️](https://black2589.github.io/en-for-designers/08-clarity-first/clarity-first)
+- [Thesis digest ⛏](https://black2589.github.io/en-for-designers/10-thesis-digest/thesis-digest)
+- [Final video/presentation 🎥](https://youtu.be/o4nnrepXnkI)
+
+
+
