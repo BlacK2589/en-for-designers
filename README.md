@@ -27,6 +27,7 @@
 - [Clarity first ⚙️](https://black2589.github.io/en-for-designers/08-clarity-first/clarity-first)
 - [Thesis digest ⛏](https://black2589.github.io/en-for-designers/10-thesis-digest/thesis-digest)
 - [Final video/presentation 🎥](https://youtu.be/o4nnrepXnkI)
+- [Year Review 🔮](https://black2589.github.io/en-for-designers/year-review/yeard-review)
 
 
 
