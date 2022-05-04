@@ -26,4 +26,18 @@ I’m proud of every single project that I have done this year. I learned to wor
 
 ### 6. What is one thing you learned about yourself this year? ⚫️
 
+We all have a job and there is no reason to be ashamed of it, but we have to share it.
 
+### 7. What is one thing you would add or change about this class? ⚫️
+
+Nothing. Please stay positive like this year!
+
+### 8. What is one thing you could have done better this year? ⚫️
+
+I think I could go to class more. But most of the time, there was always an illness or some personal problem where I couldn't control it.
+
+### 9. What is one thing I could have done better as a teacher this year? ⚫️
+
+Nothing. You are one of the best teachers I have ever experienced. Especially having an English teacher from the US is pretty cool. And I believe that if children in high school or primary school have this opportunity, it will often give them more than normal teaching.
+
+### 10. What advice would you give to students going into this subject next year? ⚫️
